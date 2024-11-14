@@ -22,7 +22,8 @@ Before you begin, make sure you have the following installed:
 * Windows or Linux/macOS (Depending on your operating system)
 
 ## Step 1: Clone the Repository
-git clone repo
+git clone https://github.com/istiakahmed0318/Account.git
+
 cd account
 
 ## Step 2: Check the Project Directory
